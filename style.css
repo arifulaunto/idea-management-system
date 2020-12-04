@@ -1,0 +1,10 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 20px 35px;
+}
+.body-heading{
+    text-align: center;
+    /* background-color:rgb(80, 201, 110); */
+}
