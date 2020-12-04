@@ -8,3 +8,8 @@
     text-align: center;
     /* background-color:rgb(80, 201, 110); */
 }
+.card{
+    border: none;
+    border-radius: 5px 5px 12px rgb(185, 236, 196)
+    ;
+}
